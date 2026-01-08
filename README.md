@@ -80,7 +80,7 @@ Working on an **early-stage fintech/payment platform**, contributing across the 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-```
+---
 
 <h2>𝙲𝚘𝚛𝚎 𝚅𝚊𝚕𝚞𝚎𝚜</h2>
 
