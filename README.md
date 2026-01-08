@@ -81,36 +81,6 @@ Working on an **early-stage fintech/payment platform**, contributing across the 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
----
-
-<h2>𝚆𝚑𝚊𝚝 𝙸 𝙲𝚊𝚗 𝙷𝚎𝚕𝚙 𝚈𝚘𝚞 𝚆𝚒𝚝𝚑</h2>
-
-```typescript
-const services = {
-  backend: [
-    "ASP.NET Web API & MVC development",
-    "PostgreSQL & database design",
-    "CQRS architecture with MediatR",
-    "Payment & third-party integrations"
-  ],
-  frontend: [
-    "React & TypeScript applications",
-    "Modern UI/UX implementation",
-    "Responsive web design"
-  ],
-  fullStack: [
-    "End-to-end application development",
-    "Legacy system modernization",
-    "Cloud deployments (AWS)",
-    "Developer experience improvements"
-  ],
-  expertise: [
-    "Fintech platforms",
-    "E-commerce solutions",
-    "Scalable web applications",
-    "System architecture design"
-  ]
-};
 ```
 
 <h2>𝙲𝚘𝚛𝚎 𝚅𝚊𝚕𝚞𝚎𝚜</h2>
